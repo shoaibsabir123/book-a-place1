@@ -1,0 +1,6 @@
+{
+  "name": "Book a Place - AI Accommodation Marketplace Pakistan",
+  "description": "Find your place in Pakistan. AI-powered accommodation booking marketplace for student living, working professionals, family stays, and luxury getaways with Supabase PostgreSQL backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
